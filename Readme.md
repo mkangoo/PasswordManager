@@ -9,7 +9,7 @@ This is a Pascal console application that is a simple password manager. The user
 1. Make sure you have Free Pascal Compiler installed.
 
 ```
-$ sudo apt-get install fpc-compiler
+install fpc-compiler
 ```
 2. Clone the repository or download the source code files.
 3. Open a terminal or command prompt and navigate to the folder with your source files.
